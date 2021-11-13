@@ -2,6 +2,7 @@
 
 #### This file covers the following topics 
 - App description
+- Implementation note
 - Note on icons usage
 - App Requirements
 - App Mock Up
@@ -10,6 +11,11 @@
 &nbsp;
 ### App Description
 > This app allows user to choose a session duration and a break duration using the up/down arrow buttons in the boxes that say 'Break-length' and 'Session-length' and then user can start the countdown timer using the play/pause button. Once timer is started, it counts down the session duration and then the break duration. User may stop the timer at any time using the play/pause button. Also, there is a reset button that user can click to stop the timer and reset all values to their defaults.
+
+&nbsp;
+&nbsp;
+### Implementation Note
+In this implementation uses the javascript setInterval() method. 
 
 &nbsp;
 &nbsp;
