@@ -15,7 +15,7 @@
 &nbsp;
 &nbsp;
 ### Implementation Note
-In this implementation uses the javascript setInterval() method. 
+This implementation uses the javascript setInterval() method. 
 
 &nbsp;
 &nbsp;
